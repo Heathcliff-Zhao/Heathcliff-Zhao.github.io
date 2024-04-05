@@ -5,7 +5,7 @@
     "image": "",
     "email": "zhaoyue20238@gmail.com",
     "phone": "(+86) 177-6857-0052",
-    "url": "https://Heathcliff-Zhao.github.io/al-folio/",
+    "url": "https://Heathcliff-Zhao.github.io/",
     "summary": "I am an undergraduate student majoring in Artificial Intelligence at Beijing University of Posts and Telecommunications, with a strong interest in Reinforcement Learning, Natural Language Processing, and their intersection. I have excellent academic performance (average score of 92, top 3.9% in major, top 2% in college) and have excelled in over 50 courses with scores above 90, including several core courses with scores above 95. I possess strong self-learning capabilities, research and engineering practice abilities, teamwork spirit, communication skills, and a positive attitude. I have rich experience in scientific research, having participated in multiple projects and contributed innovative optimization methods.",
     "location": {
       "address": "No.10 Xitucheng Road, Haidian District",
@@ -29,7 +29,7 @@
   "work": [
     {
       "name": "THUNLP",
-      "position": "Intern at Multimodal Group",
+      "position": "Intern at Multimodal Research Group",
       "url": "https://nlp.csai.tsinghua.edu.cn/",
       "startDate": "2023",
       "endDate": "",
@@ -130,7 +130,7 @@
     {
       "name": "Table Tennis, Tennis, Badminton, Swimming, Cricket",
       "level": "Intermediate",
-      "icon": "fa-solid fa-futbol-o"
+      "icon": "fa-solid fa-soccer-ball-o"
     },
     {
       "name": "Chinese Chess, Go",
