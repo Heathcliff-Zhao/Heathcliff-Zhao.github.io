@@ -1,34 +1,27 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Jinyi":
+  - firstname: ["Hu", "H."]
+    url: https://jameshujy.github.io/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Tianyu":
+  - firstname: ["yu", "Y."]
+    url: https://tianyu-yu.com/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Zhiyuan":
+  - firstname: ["Liu", L."]
+    url: https://nlp.csai.tsinghua.edu.cn/~lzy/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Yuan":
+  - firstname: ["Yao", "Y."]
+    url: https://yaoyuanthu.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Maosong":
+  - firstname: ["Sun", "S."]
+    url: https://www.cs.tsinghua.edu.cn/info/1121/3554.htm
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Xu":
+  - firstname: ["Han", "H."]
+    url: https://thucsthanxu13.github.io/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Yankai":
+  - firstname: ["Lin", "L."]
+    url: https://linyankai.github.io/
