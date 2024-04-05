@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: School of Artificial Intelligence, Beijing University of Posts and Telecommunications
 
 profile:
   align: right
