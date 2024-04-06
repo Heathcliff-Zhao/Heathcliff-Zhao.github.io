@@ -28,20 +28,29 @@
   },
   "work": [
     {
-      "name": "THUNLP",
+      "name": "THUNLP, Tsinghua University",
       "position": "Intern at Multimodal Research Group",
       "url": "https://nlp.csai.tsinghua.edu.cn/",
       "startDate": "2023",
       "endDate": "",
-      "summary": "Explored and implemented a method for obtaining structured representations of Internet data, significantly improving the collection and structuring of multimodal data. Developed techniques that reduced error rates by over 50% in large-scale multimodal datasets. Participated in the VisCPM project, contributing to the construction of multilingual multimodal datasets using the M2M100 model."
+      "summary": "",
+      "highlights": [
+        "Explored and implemented a method for obtaining structured representations of Internet data.", 
+        "Significantly improving the collection and structuring of multimodal data compared to bipartite graph matching method used in previous work(MMC4).",
+        "Developed techniques that reduced error rates by over 50% in large-scale multimodal datasets.", 
+        "Participated in the VisCPM project, contributing to the construction of multilingual multimodal datasets using the M2M100 model."]
     },
     {
-      "name": "Intelligent Science and Technology Center, Beijing University of Posts and Telecommunications",
+      "name": "CIST, Beijing University of Posts and Telecommunications",
       "position": "Intern at Multimodal Research Group",
       "url": "",
       "startDate": "2024",
       "endDate": "",
-      "summary": "Proposed a novel image harmonization method based on diffusion models. Implemented and conducted experiments for generating harmonized images using CLIP and diffusion models. Actively involved in experimental design and paper writing."
+      "summary": "",
+      "highlights": [
+        "Proposed a novel image harmonization method based on diffusion models.",
+        "Implemented and conducted experiments for generating harmonized images using CLIP and diffusion models.", 
+        "Actively involved in experimental design and paper writing."]
     }
   ],
   "volunteer": [
