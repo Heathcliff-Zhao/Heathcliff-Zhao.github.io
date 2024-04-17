@@ -29,7 +29,7 @@
   "work": [
     {
       "name": "THUNLP, Tsinghua University",
-      "position": "Intern at Multimodal Research Group",
+      "position": "Intern at Multimodal Group",
       "url": "https://nlp.csai.tsinghua.edu.cn/",
       "startDate": "2023",
       "endDate": "2024",
@@ -42,7 +42,7 @@
     },
     {
       "name": "CIST, Beijing University of Posts and Telecommunications",
-      "position": "Intern at Multimodal Research Group",
+      "position": "Intern at Multimodal Group",
       "url": "",
       "startDate": "2024",
       "endDate": "2024",
@@ -51,6 +51,13 @@
         "Proposed a novel image harmonization method based on diffusion models.",
         "Implemented and conducted experiments for generating harmonized images using CLIP and diffusion models.", 
         "Actively involved in experimental design and paper writing."]
+    },
+    {
+      "name": "NICS-EFC, Tsinghua University",
+      "position": "Intern at MARL Group",
+      "url": "https://nicsefc.ee.tsinghua.edu.cn/",
+      "startDate": "2024",
+      "endDate": ""
     }
   ],
   "volunteer": [
