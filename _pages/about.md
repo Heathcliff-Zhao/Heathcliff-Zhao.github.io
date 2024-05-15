@@ -6,7 +6,7 @@ subtitle: School of Artificial Intelligence, Beijing University of Posts and Tel
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>(+86) 177-6857-0052</p>
